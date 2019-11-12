@@ -64,8 +64,8 @@ _这也是斜体，使用前后各一个下划线_
 <a href='https://www.acdiost.cc' target='_blank' title="标签链接" alt="博客">博客</a>  
 
 ## 图片  
-![pic](/img/learn.jpg)  
-[![pic](/img/learn.jpg "title 本地图片 带链接")](https://opensource.org/licenses/mit-license.php)  
+![pic](img/learn.jpg)  
+[![pic](img/learn.jpg "title 本地图片 带链接")](https://opensource.org/licenses/mit-license.php)  
 ![pic](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550659649323&di=54be93ae6273a68849e4732984cf2820&imgtype=0&src=http%3A%2F%2Fpic.962.net%2Fup%2F2016-9%2F2016918165638676.jpg)  
 <div align=center> ![这是一张图片](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550659595566&di=6ca2f732a93e5ea4907fa1f70985f154&imgtype=0&src=http%3A%2F%2Fwww.5577.com%2Fup%2F2017-2%2F14866183837734587.jpg "居中")</div>
 <div align=right> ![这是一张图片](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1550659595565&di=7cab6a8cdc773a412c17d0320c1d4d82&imgtype=0&src=http%3A%2F%2Fcdn.duitang.com%2Fuploads%2Fitem%2F201611%2F12%2F20161112095429_kZsnz.thumb.224_0.jpeg "居右且不支持调整大小，有的是支持的")</div>  
