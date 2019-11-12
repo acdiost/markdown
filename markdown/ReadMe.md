@@ -56,10 +56,10 @@ _这也是斜体，使用前后各一个下划线_
 ---
 
 ## 链接  
-[栀墨赏读网](https://www.zmsd.xyz)  
-[栀墨赏读网](https://www.zmsd.xyz "栀墨赏读网title")  
+[栀墨赏读网](https://www.acdiost.ink)  
+[栀墨赏读网](https://www.acdiost.ink "栀墨赏读网title")  
 
-[1]:https://www.ssrvpn.icu
+[1]:https://yunmian.netlify.com
 [西红柿网络][1]  
 <a href='https://www.acdiost.cc' target='_blank' title="标签链接" alt="博客">博客</a>  
 
@@ -112,7 +112,7 @@ _这也是斜体，使用前后各一个下划线_
 有部分功能只有少数的markdown编辑器支持。因此请视情况而定  
 诸如流程图、LaTeX公式、UML图、[TOC]、标注以及其他基础markdown语法骚操作   
 **工具：**
-- [Pandoc](http;//www.pandoc.org)
+- [Pandoc](http://www.pandoc.org)
 - [Gitbook](https://www.gitbook.com)
 - [Rstudio-R_markdown](https://www.rstudio.com "knitr")
 
